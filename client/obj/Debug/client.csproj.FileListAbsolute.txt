@@ -1,0 +1,22 @@
+C:\Users\OWNER\Desktop\PRG 650 project\client\bin\Debug\client.exe.config
+C:\Users\OWNER\Desktop\PRG 650 project\client\bin\Debug\client.exe
+C:\Users\OWNER\Desktop\PRG 650 project\client\bin\Debug\client.pdb
+C:\Users\OWNER\Desktop\PRG 650 project\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\OWNER\Desktop\PRG 650 project\client\obj\Debug\client.Form1.resources
+C:\Users\OWNER\Desktop\PRG 650 project\client\obj\Debug\client.Form2.resources
+C:\Users\OWNER\Desktop\PRG 650 project\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\OWNER\Desktop\PRG 650 project\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\OWNER\Desktop\PRG 650 project\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\PRG 650 project\client\obj\Debug\client.exe
+C:\Users\OWNER\Desktop\PRG 650 project\client\obj\Debug\client.pdb
+C:\Users\OWNER\Semmester 6 (Hopefully a Yay)\PRG650\Labs\Project\client\bin\Debug\client.exe.config
+C:\Users\OWNER\Semmester 6 (Hopefully a Yay)\PRG650\Labs\Project\client\bin\Debug\client.exe
+C:\Users\OWNER\Semmester 6 (Hopefully a Yay)\PRG650\Labs\Project\client\bin\Debug\client.pdb
+C:\Users\OWNER\Semmester 6 (Hopefully a Yay)\PRG650\Labs\Project\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\OWNER\Semmester 6 (Hopefully a Yay)\PRG650\Labs\Project\client\obj\Debug\client.Form1.resources
+C:\Users\OWNER\Semmester 6 (Hopefully a Yay)\PRG650\Labs\Project\client\obj\Debug\client.Form2.resources
+C:\Users\OWNER\Semmester 6 (Hopefully a Yay)\PRG650\Labs\Project\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\OWNER\Semmester 6 (Hopefully a Yay)\PRG650\Labs\Project\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\OWNER\Semmester 6 (Hopefully a Yay)\PRG650\Labs\Project\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Semmester 6 (Hopefully a Yay)\PRG650\Labs\Project\client\obj\Debug\client.exe
+C:\Users\OWNER\Semmester 6 (Hopefully a Yay)\PRG650\Labs\Project\client\obj\Debug\client.pdb
